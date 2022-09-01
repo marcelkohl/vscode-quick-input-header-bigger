@@ -1,0 +1,10 @@
+div.quick-input-header div.quick-input-box div.synthetic-focus{
+    color: rgb(204, 204, 204);
+    border-radius: 5px;
+    border: 2px solid #007fd4;
+}
+
+div.quick-input-header div.quick-input-box div.monaco-inputbox div.ibwrapper{
+    padding: 5px;
+    font-size: 15px;
+}
